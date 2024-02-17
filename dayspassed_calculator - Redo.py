@@ -1,5 +1,5 @@
 # Days passed calculation
-# Jordyn Chalmers
+# Jordyn
 # Computer Programming Class - 16/02/2024
 
 # Imports the sys module
