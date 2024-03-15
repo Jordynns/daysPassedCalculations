@@ -1,5 +1,5 @@
 # Days passed calculation
-# Jordyn
+# Jordyn Chalmers
 # Computer Programming Class - 16/02/2024
 
 # Array list for total months and the days
